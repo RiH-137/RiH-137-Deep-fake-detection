@@ -2,7 +2,7 @@
 
 # 🕵️‍♂️ **Deep-Fake Detector** 🎥
 
-**An Advanced Platform for Detecting Deep-Fake Photos and Videos**
+**An Advanced Platform for Detecting Deep-Fake Photos, Videos and Audio**
 
 </div>
 
