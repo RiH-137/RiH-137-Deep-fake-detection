@@ -111,11 +111,11 @@ numpy
 pillow
 pip
 streamlit
-tensorflow==2.16.2
+tensorflow
 opencv-python-headless
 numpy
 pillow
-pip==24.2
+pip
 
 mediapipe
 langchain
