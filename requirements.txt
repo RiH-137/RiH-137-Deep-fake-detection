@@ -117,7 +117,7 @@ numpy
 pillow
 pip==24.2
 
-
+mediapipe
 langchain
 langchain-community
 
